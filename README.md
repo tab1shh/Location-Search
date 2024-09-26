@@ -2,6 +2,9 @@
 
 This project allows users to search for locations and view them on a map. It utilizes the Nominatim API for searching places and Leaflet for rendering maps.
 
+## Live Demo
+Check out the live version of the project [here](https://location-search-five.vercel.app/)
+
 ## Features
 
 1. Search for locations by name
